@@ -6,6 +6,9 @@ This set of programs is desgined to download and hash all MTG cards for the drop
 > Please make sure you have enough space to process.\
 > If you are not testing please run in release mode, it will be a lot faster as it is compute heavy.
 
+> [!WARNING]  
+> This dose not use defalut phash settings, read below for more details
+
 ## Export
 The exporter will download the latest all card file from [ScryFall](https://scryfall.com/docs/api/bulk-data). Then download all 500,000 cards.
 
