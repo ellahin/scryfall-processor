@@ -1,7 +1,7 @@
 # Scryfall Processer
 This set of programs is desgined to download and hash all MTG cards for the dropkick sorter.
 
-> [!WARNING]  
+> [!CAUTION]  
 > This will download and proccess all 506,000 cards which will take up 500GB of disk space.\
 > Please make sure you have enough space to process.\
 > If you are not testing please run in release mode, it will be a lot faster as it is compute heavy.
